@@ -1,0 +1,43 @@
+[
+    {
+        "id": "1",
+        "title": "computer 1",
+        "imageUrl": "/images/",
+        "price": 30,
+        "sizes": [
+            "X",
+            "M"
+        ]
+    },
+    {
+        "id": "2",
+        "title": "computer 2",
+        "imageUrl": "/images/",
+        "price": 50,
+        "sizes": [
+            "S",
+            "M"
+        ]
+    },
+    {
+        "id": "3",
+        "title": "computer 3",
+        "imageUrl": "/images/",
+        "price": 100,
+        "sizes": [
+            "XL",
+            "L"
+        ]
+    },
+    {
+        "id": "4",
+        "title": "computer 4",
+        "imageUrl": "/images/",
+        "price": 250,
+        "sizes": [
+            "S",
+            "M",
+            "L"
+        ]
+    }
+]
